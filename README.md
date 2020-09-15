@@ -16,3 +16,8 @@ Torres de hanoi.cpp
 
 Torres salida
 ![image](https://user-images.githubusercontent.com/60490932/92671937-c6c4db80-f2d4-11ea-8334-eef1fa32b010.png)
+
+Hanois_ascii.cpp
+![image](https://user-images.githubusercontent.com/60490932/93259126-93fb6700-f75c-11ea-9d7d-8e2ad60f6917.png)
+Hanoi_ascii_salida
+![image](https://user-images.githubusercontent.com/60490932/93259153-a07fbf80-f75c-11ea-8e73-fb3f23bfa230.png)
